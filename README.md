@@ -25,10 +25,10 @@ Eu estou estudando 🧩
 
 GitHub Stats ⚡
 
-[![Status](https://github-readme-stats.vercel.app/api?username=Dinoh665)](https://github.com/Dinoh665/github-readme-stats)
+[![Status](https://github-readme-stats.vercel.app/api?username=Dinoh665)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoh665)](https://github.com/Dinoh665/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinoh665)](https://github.com/anuraghazra/github-readme-stats)
 
  
 Entre em contato comigo! 📭
